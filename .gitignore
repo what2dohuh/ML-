@@ -1,0 +1,12 @@
+# Ignore .h5 files
+*.h5
+
+# Ignore .keras files
+*.keras
+
+# Ignore .env files (environment variables)
+.env
+
+# Ignore directories
+/h5/
+/keras/
